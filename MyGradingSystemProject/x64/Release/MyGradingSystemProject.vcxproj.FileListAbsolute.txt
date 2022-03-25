@@ -1,0 +1,15 @@
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.vcxproj.AssemblyReference.cache
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ClassFiveResultForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ClassFourResultForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ClassOneResultForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ClassSevenResultForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ClassSixResultForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ClassThreeResultForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ClassTwoResultForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ForgetPasswordForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.LoginForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.MainForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.RegisterForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.ResetPasswordForm.resources
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\x64\Release\MyGradingSystemProject.vcxproj.GenerateResource.cache

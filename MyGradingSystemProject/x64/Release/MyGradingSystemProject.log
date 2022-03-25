@@ -1,0 +1,26 @@
+﻿  ClassEightForm.cpp
+  ClassFiveResultForm.cpp
+  ClassFourResultForm.cpp
+  ClassOneResultForm.cpp
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\ClassOneResultForm.h(569,1): warning C4091: '': ignored on left of 'System::Windows::Forms::DataGridView' when no variable is declared
+  ClassSevenResultForm.cpp
+  ClassSixResultForm.cpp
+  ClassThreeResultForm.cpp
+  ClassTwoResultForm.cpp
+  ForgetPasswordForm.cpp
+  LoginForm.cpp
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\LoginForm.h(229,20): warning C4101: 'e': unreferenced local variable
+  MainForm.cpp
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\ClassOneResultForm.h(569,1): warning C4091: '': ignored on left of 'System::Windows::Forms::DataGridView' when no variable is declared
+  Program.cpp
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\LoginForm.h(229,20): warning C4101: 'e': unreferenced local variable
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\ClassOneResultForm.h(569,1): warning C4091: '': ignored on left of 'System::Windows::Forms::DataGridView' when no variable is declared
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\RegisterForm.h(327,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\Program.cpp(9,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  RegisterForm.cpp
+C:\Users\win\Desktop\MyGradingSystemProject\MyGradingSystemProject\RegisterForm.h(327,20): warning C4101: 'ex': unreferenced local variable
+  ResetPasswordForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  ClassEightForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MyGradingSystemProject.vcxproj -> C:\Users\win\Desktop\MyGradingSystemProject\x64\Release\MyGradingSystemProject.exe
